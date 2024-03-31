@@ -11,8 +11,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Evently',
-  description: 'Evently is a platform for event management.',
+  title: 'Poison Pawns Event Registration',
+  description: 'Poison Pawns is a platform for chess event management and more.',
   icons: {
     icon: '/assets/images/logo.svg'
   }
